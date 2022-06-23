@@ -5,3 +5,8 @@
 #add 2 more singers
 4. swift
 5. justin
+
+#add 3 more singers
+6.ebi
+7.darush
+8.shahram
