@@ -1,2 +1,5 @@
 1.joe
 2.lead
+#add 2 more podcast
+3. ecomnomy
+4.trade
